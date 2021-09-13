@@ -1,5 +1,5 @@
 {
-  "name": "app.js",
+  "name": "abi.js",
   "version": "1.0.0",
   "description": "Demo of this project can be found [here](https://www.youtube.com/watch?v=aE1Cxbio5l8)",
   "main": "truffle.js",
